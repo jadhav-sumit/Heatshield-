@@ -1,0 +1,6 @@
+{
+  "name": "HeatShield AI — Smart Heat-Risk Monitoring & Duty Planner",
+  "description": "Smart Heat-Risk Monitoring and Duty Planner for traffic police, outdoor workers, and municipal authorities under the AI for Climate Change theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
